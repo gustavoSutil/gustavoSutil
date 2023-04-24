@@ -2,7 +2,7 @@
 
 
 <table style="border:none">
-  <tr>
+  <tr style="visibility: collapse">
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoSutil&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
     </td>
