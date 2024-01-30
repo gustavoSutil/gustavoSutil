@@ -32,9 +32,9 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center"  height="28" width="28" src="https://github.com/gustavoSutil/gustavoSutil/assets/85875309/7fdcf8e2-6b49-4116-80c7-fb1432987d90">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center"  height="30" width="40" src="![5968252](https://github.com/gustavoSutil/gustavoSutil/assets/85875309/7fdcf8e2-6b49-4116-80c7-fb1432987d90)">
 </div>
 
 <div align="center">
