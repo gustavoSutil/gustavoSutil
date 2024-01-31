@@ -4,14 +4,14 @@
 
 
 <div align="center" style="display: inline_block">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavoSutil&show_icons=true&bg_color=00000000&icon_color=a7adc6&ring_color=a7adc6&title_color=a7adc6&text_color=a7adc6&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSutil&hide=jupyter%20notebook,blade,html,css&layout=compact&disable_animations=false&bg_color=00000000&title_color=a7adc6&ring_color=a7adc6&text_color=a7adc6&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavoSutil&show_icons=true&bg_color=00000000&icon_color=a7adc6&ring_color=a7adc6&title_color=a7adc6&text_color=a7adc6&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSutil&hide=jupyter%20notebook,blade,html,css&layout=compact&disable_animations=false&bg_color=00000000&title_color=a7adc6&ring_color=a7adc6&text_color=a7adc6&count_private=true&hide_border=true"/>
 </div>
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoSutil&bg_color=00000000&color=a7adc6&line=a7adc6&point=a7adc6&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoSutil&bg_color=00000000&color=a7adc6&line=a7adc6&point=a7adc6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -38,7 +38,11 @@
 </div>
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gustavoSutil}/count.svg" /></p> 
+<!--<br><p align="center"><b>Visitors Count</b></p>-->  
+<p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=gustavoSutil&style=for-the-badge&color=a7adc6&base=500&label=Visitors+Count)
+  
+</p> 
 <br>
 </div>
