@@ -43,7 +43,7 @@
      Visitors Count
    </b>
 
-  https://7ce86fdf-b7b0-4c2a-9b27-2705ef11736f-00-1knx5319ibj1i.worf.replit.dev/gustavoSutil?background_color=00000000&text_color=a7adc6&size=23&text=Visitors_Count_:_
+  ![](https://7ce86fdf-b7b0-4c2a-9b27-2705ef11736f-00-1knx5319ibj1i.worf.replit.dev/gustavoSutil?background_color=00000000&text_color=a7adc6&size=23&text=Visitors_Count_:_)
 
 </p>
 </div>
