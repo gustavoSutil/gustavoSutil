@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a7adc6&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a7adc6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo;I'm+20+years+old;Currently+studying+Computer+Science+-+UFFS;And+Economics+Science+-+UNOPAR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a7adc6&size=35&center=true&vCenter=true&font=Open+Sans&width=1000&lines=HELLO,+My+name+is+Gustavo;I'm+20+years+old;Currently+studying+Computer+Science+-+UFFS;And+Economics+Science+-+UNOPAR;Be+Welcome!++:%29)](https://git.io/typing-svg)
 
 
 <div align="center" style="display: inline_block">
@@ -19,9 +19,9 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"s>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,11 +38,12 @@
 </div>
 
 <div align="center">
-<!--<br><p align="center"><b>Visitors Count</b></p>-->  
-<p align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=gustavoSutil&style=for-the-badge&color=a7adc6&base=500&label=Visitors+Count)
-  
-</p> 
-<br>
+<br><p align="center">
+   <b style="color:#0000;">
+     Visitors Count
+   </b>
+
+  https://7ce86fdf-b7b0-4c2a-9b27-2705ef11736f-00-1knx5319ibj1i.worf.replit.dev/gustavoSutil?background_color=00000000&text_color=a7adc6&size=23&text=Visitors_Count_:_
+
+</p>
 </div>
