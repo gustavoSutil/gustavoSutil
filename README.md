@@ -40,7 +40,8 @@
 <div align="center">
 <br><p align="center">
   
-  ![](https://probable-computing-machine-gw45p7x5pg4cw6xr-8000.app.github.dev/gustavoSutil)
+  ![](https://visitors-counter-production.up.railway.app/gustavoSutil?background_color=00000000&text_color=a7adc6&size=23&text=Visitors_Count_:_)
+
 
 </p>
 </div>
