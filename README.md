@@ -1,8 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a7adc6&height=150&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a7adc6&size=35&center=true&vCenter=true&font=Open+Sans&width=1000&lines=HELLO,+My+name+is+Gustavo;I'm+21+years+old;Currently+studying+Computer+Science+-+UFFS;And+Economics+Science+-+UNOPAR;Be+Welcome!++:%29)](https://git.io/typing-svg)
-
-
 <div align="center" style="display: inline_block">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavoSutil&show_icons=true&bg_color=00000000&icon_color=a7adc6&ring_color=a7adc6&title_color=a7adc6&text_color=a7adc6&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoSutil&hide=jupyter%20notebook,blade,html,css&layout=compact&disable_animations=false&bg_color=00000000&title_color=a7adc6&ring_color=a7adc6&text_color=a7adc6&count_private=true&hide_border=true"/>
